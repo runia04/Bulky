@@ -134,3 +134,4 @@ C:\Users\monir\OneDrive\Documents\Runia\Bulky\BulkyWeb\bin\Debug\net8.0\runtimes
 C:\Users\monir\OneDrive\Documents\Runia\Bulky\BulkyWeb\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\monir\OneDrive\Documents\Runia\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyWeb.csproj.AssemblyReference.cache
 C:\Users\monir\OneDrive\Documents\Runia\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyWeb.csproj.CopyComplete
+C:\Users\monir\OneDrive\Documents\Runia\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyWeb.sourcelink.json
