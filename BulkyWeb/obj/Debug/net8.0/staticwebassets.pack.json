@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\monir\\OneDrive\\Documents\\Runia\\Bulky\\BulkyWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BulkyWeb.bundle.scp.css",
-      "PackagePath": "staticwebassets\\BulkyWeb.bundle.scp.css"
+      "Id": "C:\\Users\\monir\\OneDrive\\Documents\\Runia\\Bulky\\BulkyWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BulkyBookWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BulkyBookWeb.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\monir\\OneDrive\\Documents\\Runia\\Bulky\\BulkyWeb\\wwwroot\\css\\site.css",
@@ -11,6 +11,38 @@
     {
       "Id": "C:\\Users\\monir\\OneDrive\\Documents\\Runia\\Bulky\\BulkyWeb\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\monir\\OneDrive\\Documents\\Runia\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\0d5bf714-8cca-49ff-a3a4-90acea53b184.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\0d5bf714-8cca-49ff-a3a4-90acea53b184.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monir\\OneDrive\\Documents\\Runia\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\1f186f63-aa33-45a0-afbb-bca2dc70ac7f.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\1f186f63-aa33-45a0-afbb-bca2dc70ac7f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monir\\OneDrive\\Documents\\Runia\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\24a813f8-ed9a-4463-89e6-bf81a65632af.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\24a813f8-ed9a-4463-89e6-bf81a65632af.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monir\\OneDrive\\Documents\\Runia\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\54f84dd7-cb8a-42e1-91b8-ba85b44cbe53.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\54f84dd7-cb8a-42e1-91b8-ba85b44cbe53.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monir\\OneDrive\\Documents\\Runia\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\6e94d761-ddda-4df6-80bd-767e7a17bfe4.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\6e94d761-ddda-4df6-80bd-767e7a17bfe4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monir\\OneDrive\\Documents\\Runia\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\8c9433c1-0023-4bc7-b524-757a4ecb72e1.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\8c9433c1-0023-4bc7-b524-757a4ecb72e1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monir\\OneDrive\\Documents\\Runia\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\9f7837b5-c014-4c5e-96ab-78368306e5ee.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\9f7837b5-c014-4c5e-96ab-78368306e5ee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\monir\\OneDrive\\Documents\\Runia\\Bulky\\BulkyWeb\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
     },
     {
       "Id": "C:\\Users\\monir\\OneDrive\\Documents\\Runia\\Bulky\\BulkyWeb\\wwwroot\\js\\site.js",
@@ -245,20 +277,20 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BulkyWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BulkyBookWeb.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BulkyWeb.props",
-      "PackagePath": "build\\BulkyWeb.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BulkyBookWeb.props",
+      "PackagePath": "build\\BulkyBookWeb.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BulkyWeb.props",
-      "PackagePath": "buildMultiTargeting\\BulkyWeb.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BulkyBookWeb.props",
+      "PackagePath": "buildMultiTargeting\\BulkyBookWeb.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BulkyWeb.props",
-      "PackagePath": "buildTransitive\\BulkyWeb.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BulkyBookWeb.props",
+      "PackagePath": "buildTransitive\\BulkyBookWeb.props"
     }
   ],
   "ElementsToRemove": []
